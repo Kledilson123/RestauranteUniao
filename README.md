@@ -44,8 +44,8 @@ Testes realizados
 - Postamos no GitHub Pages e vimos se as imagens e o visual carregavam certos na internet.
 
 Links
-- Link do repositório: [COLE O LINK DO SEU GITHUB AQUI]
-- Link do site publicado: [COLE O LINK DO SITE PUBLICADO AQUI]
+- Link do repositório: https://github.com/Kledilson123/RestauranteUniao
+- Link do site publicado: https://kledilson123.github.io/RestauranteUniao/
 
 Contribuição dos integrantes
 - Kledilson Leôncio: Criou os estilos visuais no CSS, programou as funções de movimento e animação no JavaScript, fez os testes no celular e publicou o site na internet.
